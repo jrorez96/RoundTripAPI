@@ -1,0 +1,6 @@
+@RoundTripAPI_HostAddress = http://localhost:5088
+
+GET {{RoundTripAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

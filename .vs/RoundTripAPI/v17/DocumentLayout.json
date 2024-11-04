@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|c:\\users\\jroja\\onedrive\\documents\\joel rojas software developer\\roundtripapi\\controllers\\emailservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|solutionrelative:controllers\\emailservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|c:\\users\\jroja\\onedrive\\documents\\joel rojas software developer\\roundtripapi\\rentaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|solutionrelative:rentaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|c:\\users\\jroja\\onedrive\\documents\\joel rojas software developer\\roundtripapi\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|solutionrelative:controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|c:\\users\\jroja\\onedrive\\documents\\joel rojas software developer\\roundtripapi\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|solutionrelative:vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|c:\\users\\jroja\\onedrive\\documents\\joel rojas software developer\\roundtripapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40076483-6BE9-4B26-9C9F-035017CE0115}|RoundTripAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\Controllers\\EmailServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailServiceController.cs",
+              "ToolTip": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\Controllers\\EmailServiceController.cs",
+              "RelativeToolTip": "Controllers\\EmailServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:47:24.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalData.cs",
+              "DocumentMoniker": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\RentalData.cs",
+              "RelativeDocumentMoniker": "RentalData.cs",
+              "ToolTip": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\RentalData.cs",
+              "RelativeToolTip": "RentalData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:42:06.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T00:05:57.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "Controllers\\VehiculosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:29:47.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\Vehiculos.cs",
+              "RelativeDocumentMoniker": "Vehiculos.cs",
+              "ToolTip": "C:\\Users\\jroja\\OneDrive\\Documents\\Joel Rojas Software Developer\\RoundTripAPI\\Vehiculos.cs",
+              "RelativeToolTip": "Vehiculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:20:47.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
